@@ -1,5 +1,5 @@
 package org.academiadecodigo.debuggingac;
 
-public class Bugs {
+public class Bugs extends CharactersFactory implements Hittable{
 
 }
