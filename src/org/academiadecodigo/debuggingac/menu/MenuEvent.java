@@ -3,9 +3,6 @@ package org.academiadecodigo.debuggingac.menu;
 import org.academiadecodigo.debuggingac.audio.Audio;
 import org.academiadecodigo.debuggingac.simplegraphics.pictures.Picture;
 
-import javax.swing.*;
-import java.awt.*;
-
 
 public class MenuEvent {
     private Picture menuBG;
