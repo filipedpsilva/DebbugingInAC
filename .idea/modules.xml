@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DebuggingAC.iml" filepath="$PROJECT_DIR$/DebuggingAC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DebbugingInAC.iml" filepath="$PROJECT_DIR$/DebbugingInAC.iml" />
     </modules>
   </component>
 </project>
